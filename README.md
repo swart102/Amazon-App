@@ -1,1 +1,4 @@
 # amazon-app
+
+#instructional screenshot
+![](images/appWalkthrough.png)
